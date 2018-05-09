@@ -1,0 +1,7 @@
+/target/
+/.settings
+/hubin
+*.project
+*.classpath
+.classpath
+*.settings
